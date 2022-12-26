@@ -1,0 +1,7 @@
+{
+  "name": "prueba-posts-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
